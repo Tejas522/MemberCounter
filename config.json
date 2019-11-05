@@ -1,0 +1,14 @@
+{
+    "debug": {
+        "token":    "NjQwODQxMzYyNDI5NzA2MjUw.XcF2qQ.hLglB_R5M057dCE6uIQoupgZ4AA",
+        "dblToken": "NjQwODQxMzYyNDI5NzA2MjUw.XcF2qQ.hLglB_R5M057dCE6uIQoupgZ4AA",
+        "prefix":   "5",
+        "dbFile":   "membercounter.sqlite3.db",
+        "supportGuild":""
+    },
+    "token":    "NjQwODQxMzYyNDI5NzA2MjUw.XcF2qQ.hLglB_R5M057dCE6uIQoupgZ4AA",
+    "dblToken": "NjQwODQxMzYyNDI5NzA2MjUw.XcF2qQ.hLglB_R5M057dCE6uIQoupgZ4AA",
+    "prefix":   "%",
+    "dbFile":   "membercounter.sqlite3.db",
+    "supportGuild":""
+}
